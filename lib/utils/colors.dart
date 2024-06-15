@@ -4,9 +4,9 @@ class AppColors {
   AppColors();
 
   // app theme colors
-  static const Color primary = Color(0xff2C3E50);
-  static const Color secondary = Color(0xffC8A2C8);
-  static const Color accent = Color(0xffF2F2F2);
+  static const Color primary = Color(0xff6565d7);
+  static const Color secondary = Color(0xffb4b5f0);
+  static const Color accent = Color(0xffe7e7fe);
 
   // text color
   static const Color textPrimary = Color(0xFF333333);
@@ -15,6 +15,6 @@ class AppColors {
 
   // background colors
   static const Color light = Color(0xFFF6F6F6);
-  static const Color dark = Color(0xFF1C2128);
+  static const Color dark = Color(0xFF202051);
   static const Color primaryBackground = Color(0xFFF3F5FF);
 }
